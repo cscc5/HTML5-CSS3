@@ -1,0 +1,32 @@
+h1,h2{
+    text-align:center;
+}
+
+#personal_data{
+    background-color: blanchedalmond;
+    text-align: left;
+}
+
+#link{
+    background-color: blanchedalmond;
+    text-align: left;
+}
+
+#skills{
+    background-color: blanchedalmond;
+    text-align: left;
+}
+
+#idiom{
+    background-color: blanchedalmond;
+    text-align: left;
+}
+
+a:hover{
+    color:blue;
+}
+
+E-mail:hover{
+    color: blue;
+}
+

@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+    font-size: 12px; /*Tamaño de la letra*/
+}
+
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+}
+
+header h1{
+    color: blueviolet;
+}
+
+/* el # es para los identificadores */
+#prueba{
+    color: blue;
+    font-size: xx-large;
+}
+
+.parrafo{
+    color: brown;
+}
+
+a{
+    margin: 50px;
+}
+
+
+cambiar e color cuando pasemos sobre el link
+a:hover{
+    color: gold;
+}
+
+img{
+    margin: auto;
+    width: 50%;
+}
