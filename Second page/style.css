@@ -30,7 +30,11 @@ a{
 }
 
 
+<<<<<<< HEAD
 cambiar e color cuando pasemos sobre el link
+=======
+cambiar de color cuando pasemos sobre el link
+>>>>>>> main
 a:hover{
     color: gold;
 }
